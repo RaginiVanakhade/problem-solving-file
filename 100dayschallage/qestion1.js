@@ -25,4 +25,4 @@ function practice2(str) {
   return string.reduce((accum, curword) => (accum.length < curword.length ? curword : accum), "")
 }
 
-console.log( "practice2",practice2("hello ragini Where are you Now helooooooooo")
+// console.log( "practice2",practice2("hello ragini Where are you Now helooooooooo")
